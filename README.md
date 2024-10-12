@@ -59,7 +59,7 @@ To interact with the `TokenDegen` contract, follow these steps using Remix, an o
 
 ## Authors
 
-- Ambesh Dubey
+-- Ambesh Dubey
 
 ## License
 
